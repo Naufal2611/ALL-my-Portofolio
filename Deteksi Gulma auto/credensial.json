@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "deteksigulma",
+  "private_key_id": "a703c14aca0baf30d553ff1d9eb398e58092abe3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCcuWNJ0rDPEOvv\n3K73q4YiK3GIqVm6FEwLhwJss5cyLNJX5OjJZyxYYEdKtFw9ovm1edxQDF+zGr1a\ntupSw9kp8KqhjNjrKiMvaKDulImd2z/1LWhRRYc2u4BYnDNdmEh8V1t6BbhDjFtQ\nj/OxcIgiX00OtrOZaeSMnbIw2zrY80X7zflj1B3ZtvQgaZLFPNUqlcsaBAUOJAuK\nbbpHxeVUGo46nQLofTlb886VQgvvu1/oME50EYL8df2Bm+ovQzNtwZfeSiSv+Xol\nttXgXPyROeut4HR1nfnywQJAmE02T16U5Mxgox8iMHlY2DM68bPOMT/t2/r/7Zeg\nGlFOQ6TZAgMBAAECggEAGcOhRqrP/a5gtwUer2D/c0EUkDyU31IEYVW/yIpqhelX\n5/Kd8TQYlmu3dJi7XDedWN/QX8l09w7jh5Tv5wzCt9IUXuv2YgyCjcHjyOzaxbxc\nIoxlLI0jShRfaFG/YPjOm8BJrcDgdpxNi6wqieY/vvTPSGaxFjySAarP9xenMDBm\nGnXbSazEagQy9XrACGvE40tBBmupNyMpxg1O+ExGzE2KZ2FsqsQFRjIA2WXPC6hF\ncnSpsn9nYYJnp75pWITZXTzWqls9DX6pBoqw0mxdzGmQAq8imrtJ45LAlA/3tOPH\nlj7Da7UllBnZulzT9a57VSlN5BWsi6JbxUulDzlNnQKBgQDJH0E1E/1VYyk5jZnk\nsEcmKcAyjmqNm6OrUxzVMzsFVU0ar3duB6rh/+SyldczTH/zjtDpqGavY7PPMzIs\nEzsiw+nXy1BVZQgIvnuizJnIMWKQFLfebY+iadoqTfU1FOSPA8YA7lrzoys/F2u3\nCIvFt6EIIHhr6i0VO2vXskUnxQKBgQDHfNuErxLYDkYWrjcSXnVmaRcfVX8EUOA+\nWdPbCFXKI4qlo/g/334Tg/i/r9MZ2gxX5yYQygBoBM6UmIkL1DU28nDrQAAIDaa+\nDxCuf1gPFIC+QYRSexZ4r277MMEfUl9B4fXYBdnQnVX2D6FbzcgbKQRNp1JOFYjT\nnkBqWIJGBQKBgQCaBxy6WK/IiCPXVvHIKZSjzo/KaDWEc/D50bIgOZb286gUStNt\naePeJ0rv1j+0ot7PGc43VGgn5HSdt7ix9pxweJgLU0MX00M+5xrqyETyA5hXffZ/\nG2tIWEbj5UZou7J7MMmghusS8iC5techiyL4bjSec7el9fdG7nYeAAJkfQKBgQCs\nOHO/qfGnyzLhM8hhuGC8aC/JImOE01m1GpHW/+woleSFufiBFC5hJMckneOu5ttP\nLERlrC8LnlLGYKW4K51Bca7guiEM0tRIMvNg4pmgcz/ugNt+5brxt+slOuMPamrI\nkw5OUEbKXnqu8rGIczC1mgSYEcLxnI/CulW8OetGDQKBgCdHs8AYKsJpLhUdCq2f\n4WyCuiR3afZP1otKw3kRef+6bull7cPtO7tRwCxqytwoXRcus7FY+zR/ktomU3K8\nf6UsxP/GSzZbBLfgmUbgI2sl6EUUERPDFYlIJ4dyqV9CLf1RrPAcEgunfG8iYq5g\nPoHjlOs7f3C94CrGzm+SDVAx\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@deteksigulma.iam.gserviceaccount.com",
+  "client_id": "114639231723463523667",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40deteksigulma.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
